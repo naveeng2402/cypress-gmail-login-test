@@ -1,0 +1,31 @@
+title,firstName,lastName,userName,password,confirmPassword,err_type,err_text
+Empty Names,,,C7OyhXzJsyYy4Jw,K71PW9Xzj0r9rMu,K71PW9Xzj0r9rMu,N,Enter first name and surname
+Empty Names,,,cHG7xgOCjbHCflw,0DT7Nn75cvsSSWr,0DT7Nn75cvsSSWr,N,Enter first name and surname
+Empty Names,,,Wsr0vpnft0YGSRI,LxL4R7JSIZLzQp5,LxL4R7JSIZLzQp5,N,Enter first name and surname
+Empty Names,,,AglepxtVgyktzbj,UQfkrjZNnkKpWJS,UQfkrjZNnkKpWJS,N,Enter first name and surname
+Empty Names,,,K5m5Dw9ekzpB3EY,qyGXfWU3xvVSZo3,qyGXfWU3xvVSZo3,N,Enter first name and surname
+Invalid Usernames,ejbdo,ejbdo,I'8(d&i?,om07TOkKEwrxnIP,om07TOkKEwrxnIP,UN,only letters
+Invalid Usernames,ravjdn,ravjdn,K|W'w`V`,BQ4VqVlg6UOEMfW,BQ4VqVlg6UOEMfW,UN,only letters
+Invalid Usernames,xxntilvv,xxntilvv,A_i^9|7@,Q2x1lheszwnsH3T,Q2x1lheszwnsH3T,UN,only letters
+Invalid Usernames,yfkzyvfjnme,yfkzyvfjnme,J@Y#1/1/,s06gT3yCyhSyiEd,s06gT3yCyhSyiEd,UN,only letters
+Invalid Usernames,ttiltjh,ttiltjh,E)W(1`a/,oLqbG5lZAM0HFNY,oLqbG5lZAM0HFNY,UN,only letters
+Empty Password Confirmation,alulciqimbb,alulciqimbb,IhfzWW,4Ft47VONHaUiXLB,,P,Confirm your password
+Empty Password Confirmation,ummkyzxbfkw,ummkyzxbfkw,99CnEE,Yl91OHs3VCfypBl,,P,Confirm your password
+Empty Password Confirmation,uqkbujkioxq,uqkbujkioxq,0uHWV6,4lbvjXqVoIh1zkF,,P,Confirm your password
+Empty Password Confirmation,pxtufjb,pxtufjb,p9yo97,zHF9VWuR3ZgaKOZ,,P,Confirm your password
+Empty Password Confirmation,mnalyuhb,mnalyuhb,jVRAEG,UetZt4Ixmqeww8R,,P,Confirm your password
+Small Password,jnxzubpbpv,jnxzubpbpv,Pe9cvJ,iXuEys,iXuEys,P,8 characters
+Small Password,xoxbw,xoxbw,pyhyTx,B0HNGbp,B0HNGbp,P,8 characters
+Small Password,lpsuh,lpsuh,4UZxrm,mstTv3v,mstTv3v,P,8 characters
+Small Password,ztmxnfcxng,ztmxnfcxng,6v1EyH,drJDZRD,drJDZRD,P,8 characters
+Small Password,pxbtqwe,pxbtqwe,RVSEGB,s7hG3h,s7hG3h,P,8 characters
+Password Mismatch,tutceim,tutceim,oIoeaFTQLv6pyjg9,rC39LCwtoAQ7,npjPxVgcct,P,didn’t match
+Password Mismatch,jgnaiiep,jgnaiiep,TajgcB4PW1pRyzeS,gDvdQVv6OPB6,m9cfgqrHDtAQyEj,P,didn’t match
+Password Mismatch,tbtzwyfx,tbtzwyfx,PAPXYfrjZvkz76y1,w9M1Ug06Q3sVy3o,IxAPbx2o8,P,didn’t match
+Password Mismatch,gjcwtoge,gjcwtoge,kkAeRo3vDQODNxdM,6tDd46L9VVmXmd,u4t50uSrW,P,didn’t match
+Password Mismatch,tgihbopyl,tgihbopyl,x9UwypCh2ROyuN1N,kwsE5T3d,d4AKPnQO,P,didn’t match
+Already taken Usernames,yyxpfxqkp,yyxpfxqkp,naveeng2402,BoXNC7h1XckEFln,BoXNC7h1XckEFln,UN,username is taken
+Already taken Usernames,fdvyor,fdvyor,rishikasv1505,tdBW5CzcLcnBq9L,tdBW5CzcLcnBq9L,UN,username is taken
+Already taken Usernames,drbkybatr,drbkybatr,naveenacademics,2smh4TfONtIxvJ7,2smh4TfONtIxvJ7,UN,username is taken
+Already taken Usernames,zdtvnqpgj,zdtvnqpgj,payamma.krishna,Fpj9bNSqSwVKG3k,Fpj9bNSqSwVKG3k,UN,username is taken
+Already taken Usernames,thzxjc,thzxjc,h26058549,gphu7YOUv2NMRmW,gphu7YOUv2NMRmW,UN,username is taken

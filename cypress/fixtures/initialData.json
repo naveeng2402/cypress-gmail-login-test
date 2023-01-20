@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Empty Names",
+    "firstName": "",
+    "lastName": "",
+    "userName": "C7OyhXzJsyYy4Jw",
+    "password": "K71PW9Xzj0r9rMu",
+    "confirmPassword": "K71PW9Xzj0r9rMu",
+    "err_type": "N",
+    "err_text": "Enter first name and surname"
+  },
+  {
+    "title": "Empty Names",
+    "firstName": "",
+    "lastName": "",
+    "userName": "cHG7xgOCjbHCflw",
+    "password": "0DT7Nn75cvsSSWr",
+    "confirmPassword": "0DT7Nn75cvsSSWr",
+    "err_type": "N",
+    "err_text": "Enter first name and surname"
+  },
+  {
+    "title": "Empty Names",
+    "firstName": "",
+    "lastName": "",
+    "userName": "Wsr0vpnft0YGSRI",
+    "password": "LxL4R7JSIZLzQp5",
+    "confirmPassword": "LxL4R7JSIZLzQp5",
+    "err_type": "N",
+    "err_text": "Enter first name and surname"
+  },
+  {
+    "title": "Empty Names",
+    "firstName": "",
+    "lastName": "",
+    "userName": "AglepxtVgyktzbj",
+    "password": "UQfkrjZNnkKpWJS",
+    "confirmPassword": "UQfkrjZNnkKpWJS",
+    "err_type": "N",
+    "err_text": "Enter first name and surname"
+  },
+  {
+    "title": "Empty Names",
+    "firstName": "",
+    "lastName": "",
+    "userName": "K5m5Dw9ekzpB3EY",
+    "password": "qyGXfWU3xvVSZo3",
+    "confirmPassword": "qyGXfWU3xvVSZo3",
+    "err_type": "N",
+    "err_text": "Enter first name and surname"
+  },
+  {
+    "title": "Invalid Usernames",
+    "firstName": "ejbdo",
+    "lastName": "ejbdo",
+    "userName": "I'8(d&i?",
+    "password": "om07TOkKEwrxnIP",
+    "confirmPassword": "om07TOkKEwrxnIP",
+    "err_type": "UN",
+    "err_text": "only letters"
+  },
+  {
+    "title": "Invalid Usernames",
+    "firstName": "ravjdn",
+    "lastName": "ravjdn",
+    "userName": "K|W'w`V`",
+    "password": "BQ4VqVlg6UOEMfW",
+    "confirmPassword": "BQ4VqVlg6UOEMfW",
+    "err_type": "UN",
+    "err_text": "only letters"
+  },
+  {
+    "title": "Invalid Usernames",
+    "firstName": "xxntilvv",
+    "lastName": "xxntilvv",
+    "userName": "A_i^9|7@",
+    "password": "Q2x1lheszwnsH3T",
+    "confirmPassword": "Q2x1lheszwnsH3T",
+    "err_type": "UN",
+    "err_text": "only letters"
+  },
+  {
+    "title": "Invalid Usernames",
+    "firstName": "yfkzyvfjnme",
+    "lastName": "yfkzyvfjnme",
+    "userName": "J@Y#1/1/",
+    "password": "s06gT3yCyhSyiEd",
+    "confirmPassword": "s06gT3yCyhSyiEd",
+    "err_type": "UN",
+    "err_text": "only letters"
+  },
+  {
+    "title": "Invalid Usernames",
+    "firstName": "ttiltjh",
+    "lastName": "ttiltjh",
+    "userName": "E)W(1`a/",
+    "password": "oLqbG5lZAM0HFNY",
+    "confirmPassword": "oLqbG5lZAM0HFNY",
+    "err_type": "UN",
+    "err_text": "only letters"
+  },
+  {
+    "title": "Empty Password Confirmation",
+    "firstName": "alulciqimbb",
+    "lastName": "alulciqimbb",
+    "userName": "IhfzWW",
+    "password": "4Ft47VONHaUiXLB",
+    "confirmPassword": "",
+    "err_type": "P",
+    "err_text": "Confirm your password"
+  },
+  {
+    "title": "Empty Password Confirmation",
+    "firstName": "ummkyzxbfkw",
+    "lastName": "ummkyzxbfkw",
+    "userName": "99CnEE",
+    "password": "Yl91OHs3VCfypBl",
+    "confirmPassword": "",
+    "err_type": "P",
+    "err_text": "Confirm your password"
+  },
+  {
+    "title": "Empty Password Confirmation",
+    "firstName": "uqkbujkioxq",
+    "lastName": "uqkbujkioxq",
+    "userName": "0uHWV6",
+    "password": "4lbvjXqVoIh1zkF",
+    "confirmPassword": "",
+    "err_type": "P",
+    "err_text": "Confirm your password"
+  },
+  {
+    "title": "Empty Password Confirmation",
+    "firstName": "pxtufjb",
+    "lastName": "pxtufjb",
+    "userName": "p9yo97",
+    "password": "zHF9VWuR3ZgaKOZ",
+    "confirmPassword": "",
+    "err_type": "P",
+    "err_text": "Confirm your password"
+  },
+  {
+    "title": "Empty Password Confirmation",
+    "firstName": "mnalyuhb",
+    "lastName": "mnalyuhb",
+    "userName": "jVRAEG",
+    "password": "UetZt4Ixmqeww8R",
+    "confirmPassword": "",
+    "err_type": "P",
+    "err_text": "Confirm your password"
+  },
+  {
+    "title": "Small Password",
+    "firstName": "jnxzubpbpv",
+    "lastName": "jnxzubpbpv",
+    "userName": "Pe9cvJ",
+    "password": "iXuEys",
+    "confirmPassword": "iXuEys",
+    "err_type": "P",
+    "err_text": "8 characters"
+  },
+  {
+    "title": "Small Password",
+    "firstName": "xoxbw",
+    "lastName": "xoxbw",
+    "userName": "pyhyTx",
+    "password": "B0HNGbp",
+    "confirmPassword": "B0HNGbp",
+    "err_type": "P",
+    "err_text": "8 characters"
+  },
+  {
+    "title": "Small Password",
+    "firstName": "lpsuh",
+    "lastName": "lpsuh",
+    "userName": "4UZxrm",
+    "password": "mstTv3v",
+    "confirmPassword": "mstTv3v",
+    "err_type": "P",
+    "err_text": "8 characters"
+  },
+  {
+    "title": "Small Password",
+    "firstName": "ztmxnfcxng",
+    "lastName": "ztmxnfcxng",
+    "userName": "6v1EyH",
+    "password": "drJDZRD",
+    "confirmPassword": "drJDZRD",
+    "err_type": "P",
+    "err_text": "8 characters"
+  },
+  {
+    "title": "Small Password",
+    "firstName": "pxbtqwe",
+    "lastName": "pxbtqwe",
+    "userName": "RVSEGB",
+    "password": "s7hG3h",
+    "confirmPassword": "s7hG3h",
+    "err_type": "P",
+    "err_text": "8 characters"
+  },
+  {
+    "title": "Password Mismatch",
+    "firstName": "tutceim",
+    "lastName": "tutceim",
+    "userName": "oIoeaFTQLv6pyjg9",
+    "password": "rC39LCwtoAQ7",
+    "confirmPassword": "npjPxVgcct",
+    "err_type": "P",
+    "err_text": "didn’t match"
+  },
+  {
+    "title": "Password Mismatch",
+    "firstName": "jgnaiiep",
+    "lastName": "jgnaiiep",
+    "userName": "TajgcB4PW1pRyzeS",
+    "password": "gDvdQVv6OPB6",
+    "confirmPassword": "m9cfgqrHDtAQyEj",
+    "err_type": "P",
+    "err_text": "didn’t match"
+  },
+  {
+    "title": "Password Mismatch",
+    "firstName": "tbtzwyfx",
+    "lastName": "tbtzwyfx",
+    "userName": "PAPXYfrjZvkz76y1",
+    "password": "w9M1Ug06Q3sVy3o",
+    "confirmPassword": "IxAPbx2o8",
+    "err_type": "P",
+    "err_text": "didn’t match"
+  },
+  {
+    "title": "Password Mismatch",
+    "firstName": "gjcwtoge",
+    "lastName": "gjcwtoge",
+    "userName": "kkAeRo3vDQODNxdM",
+    "password": "6tDd46L9VVmXmd",
+    "confirmPassword": "u4t50uSrW",
+    "err_type": "P",
+    "err_text": "didn’t match"
+  },
+  {
+    "title": "Password Mismatch",
+    "firstName": "tgihbopyl",
+    "lastName": "tgihbopyl",
+    "userName": "x9UwypCh2ROyuN1N",
+    "password": "kwsE5T3d",
+    "confirmPassword": "d4AKPnQO",
+    "err_type": "P",
+    "err_text": "didn’t match"
+  },
+  {
+    "title": "Already taken Usernames",
+    "firstName": "yyxpfxqkp",
+    "lastName": "yyxpfxqkp",
+    "userName": "naveeng2402",
+    "password": "BoXNC7h1XckEFln",
+    "confirmPassword": "BoXNC7h1XckEFln",
+    "err_type": "UN",
+    "err_text": "username is taken"
+  },
+  {
+    "title": "Already taken Usernames",
+    "firstName": "fdvyor",
+    "lastName": "fdvyor",
+    "userName": "rishikasv1505",
+    "password": "tdBW5CzcLcnBq9L",
+    "confirmPassword": "tdBW5CzcLcnBq9L",
+    "err_type": "UN",
+    "err_text": "username is taken"
+  },
+  {
+    "title": "Already taken Usernames",
+    "firstName": "drbkybatr",
+    "lastName": "drbkybatr",
+    "userName": "naveenacademics",
+    "password": "2smh4TfONtIxvJ7",
+    "confirmPassword": "2smh4TfONtIxvJ7",
+    "err_type": "UN",
+    "err_text": "username is taken"
+  },
+  {
+    "title": "Already taken Usernames",
+    "firstName": "zdtvnqpgj",
+    "lastName": "zdtvnqpgj",
+    "userName": "payamma.krishna",
+    "password": "Fpj9bNSqSwVKG3k",
+    "confirmPassword": "Fpj9bNSqSwVKG3k",
+    "err_type": "UN",
+    "err_text": "username is taken"
+  },
+  {
+    "title": "Already taken Usernames",
+    "firstName": "thzxjc",
+    "lastName": "thzxjc",
+    "userName": "h26058549",
+    "password": "gphu7YOUv2NMRmW",
+    "confirmPassword": "gphu7YOUv2NMRmW",
+    "err_type": "UN",
+    "err_text": "username is taken"
+  }
+]
